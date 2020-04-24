@@ -1,0 +1,6 @@
+app/build/
+.idea
+.gradle
+database/
+.DS_Store
+jenkins-data/
